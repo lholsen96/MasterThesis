@@ -9,7 +9,7 @@ GAMBoost_stumps_with_intercept_update: Same as above, but this implementation of
 
 GAMBoost_splines: contains auxiliary functions to Binder's R-package 'GAMBoost'
 
-GAMBoost_common: contains auxiliary functions which work for both GAMBoost with penalized B-splines and penalized stumps. 
+GAMBoost_common: contains auxiliary functions that work for both GAMBoost with penalized B-splines and penalized stumps. 
 
 PartBoostR_source_code: contains the implementation of PartBoostR and all auxillary functions.
 
