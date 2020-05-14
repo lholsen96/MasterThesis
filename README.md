@@ -1,5 +1,5 @@
 # Master's Thesis by Lars Olsen: "Likelihood-Based Boosting: Approximate Confidence Bands and Intervals for Generalized Additive Models"
-R codes used in my master's thesis "Likelihood-Based Boosting: Approximate Confidence Bands and Intervals for Generalized Additive Models" delivered 15th of May 2020 
+R codes used in my master's thesis "Likelihood-Based Boosting: Approximate Confidence Bands and Intervals for Generalized Additive Models" delivered 15th of May 2020.
 
 The main files of interest are:
 
@@ -7,7 +7,7 @@ GAMBoost_stumps: contains GAMBoost with penalized stumps algorithm, alongside al
 
 GAMBoost_stumps_with_intercept_update: Same as above, but this implementation of GAMBoost with penalized stumps conduct intercept updates. It relies on auxiliary functions from GAMBoost_stumps.
 
-GAMBoost_splines: contains auxiliary functions to Binder's R-package 'GAMBoost'
+GAMBoost_splines: contains auxiliary functions to Binder's R-package 'GAMBoost'.
 
 GAMBoost_common: contains auxiliary functions that work for both GAMBoost with penalized B-splines and penalized stumps. 
 
