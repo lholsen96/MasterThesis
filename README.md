@@ -23,5 +23,5 @@ Chapter2_Boostr_PartBoostR_GenPartBoostR_figures: generates the figures in Chapt
 
 Chapter3_Splines_Trees_figures: generates the figures in Chapter 3.
 
-Some of the codes rely on saved R object, which was not allowed to upload to GitHub. 
+Some of the code sections rely on saved R objects, which was not allowed to upload to GitHub. 
 Contact me via my e-mail account to receive these RDS saves. 
