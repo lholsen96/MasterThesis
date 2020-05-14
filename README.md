@@ -1,4 +1,4 @@
-# MasterThesis
+# Master's Thesis by Lars Olsen: "Likelihood-Based Boosting: Approximate Confidence Bands and Intervals for Generalized Additive Models"
 R codes used in my master's thesis "Likelihood-Based Boosting: Approximate Confidence Bands and Intervals for Generalized Additive Models" delivered 15th of May 2020 
 
 The main files of interest are:
